@@ -1,0 +1,13 @@
+.scarecrow{
+    width: calc(286.83/16 * 1rem);
+    height: calc(238/16 * 1rem);
+    padding: 0 calc(44/16 * 1rem) calc(60/16 * 1rem);
+}
+
+@media only screen and(min-width: 768px){
+    .scarecrow{
+        width: calc(539.22/16 * 1rem);
+        height: calc(447.43/16 * 1rem);
+        padding: 0 calc(118.78/16 * 1rem) 0 calc(77/16 * 1rem);
+    }
+}

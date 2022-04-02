@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Space+Mono:wght@400;700&display=swap');
+
+//font weight variables
+$bold:700;
+$regular:400;
+$grey:#333333;
+
+body{
+    font-family: 'Space Mono', monospace;
+    color: $grey;
+}
+
+.logo{
+    font-family: 'Inconsolata', sans-serif;
+}
