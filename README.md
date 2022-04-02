@@ -55,5 +55,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://effulgent-cactus-2f08a1.netlify.app/)
+- Website [netlify site](https://effulgent-cactus-2f08a1.netlify.app/)
 - GitHub [jjmbeba](https://github.com/jjmbeba)
